@@ -1,0 +1,35 @@
+/* Import Bootstrap CSS */
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+/* Global styles */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f9fa;
+}
+
+.container {
+  padding: 20px;
+}
+
+.card {
+  margin-bottom: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.btn-action {
+  margin-right: 5px;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.alert {
+  margin-top: 20px;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
